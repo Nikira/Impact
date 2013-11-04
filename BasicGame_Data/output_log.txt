@@ -1,0 +1,180 @@
+Initialize engine version: 4.2.0f4 (38efbd14869d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1242]
+    Renderer: ATI Radeon HD 5700 Series
+    Vendor:   ATI
+    VRAM:     1013 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MiRi\Documents\NoobProject\BasicGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MiRi\Documents\NoobProject\BasicGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MiRi\Documents\NoobProject\BasicGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MiRi\Documents\NoobProject\BasicGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MiRi\Documents\NoobProject\BasicGame_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\MiRi\Documents\NoobProject\BasicGame_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.092 seconds
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\MiRi\Documents\NoobProject\BasicGame_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.997496 ms
+System memory in use before: 9.5 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 8.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 2.448185 ms (FindLiveObjects: 0.048696 ms CreateObjectMapping: 0.055372 ms MarkObjects: 0.228167 ms  DeleteObjects: 0.346767 ms)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided fighter01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided fighter01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+Destroyed sth. big
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Player\PlayerStatusController.cs:96)
+ 
+(Filename: C Line: 0)
+
+UnloadTime: 3.152323 ms
+System memory in use before: 11.2 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 6.4 MB.
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 165.
+Total: 7.226348 ms (FindLiveObjects: 0.073044 ms CreateObjectMapping: 0.029060 ms MarkObjects: 0.263511 ms  DeleteObjects: 4.967059 ms)
+
+UnloadTime: 0.771684 ms
+System memory in use before: 6.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 6.5 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 184.
+Total: 2.095919 ms (FindLiveObjects: 0.032988 ms CreateObjectMapping: 0.024741 ms MarkObjects: 0.256050 ms  DeleteObjects: 0.039664 ms)
+
+UnloadTime: 0.883608 ms
+System memory in use before: 9.7 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 239.
+Total: 2.448577 ms (FindLiveObjects: 0.033773 ms CreateObjectMapping: 0.035737 ms MarkObjects: 0.313386 ms  DeleteObjects: 0.346767 ms)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+the enemy has collided LaserPrefab(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+EnemyStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Enemy\EnemyStatusController.cs:14)
+ 
+(Filename: C Line: 0)
+
+Destroyed sth. big
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerStatusController:OnTriggerEnter(Collider) (at C:\Users\MiRi\Documents\NoobProject\Assets\Player\PlayerStatusController.cs:96)
+ 
+(Filename: C Line: 0)
+
+UnloadTime: 1.001030 ms
+System memory in use before: 11.0 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 6.6 MB.
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 165.
+Total: 12.021006 ms (FindLiveObjects: 0.032988 ms CreateObjectMapping: 0.027490 ms MarkObjects: 0.264297 ms  DeleteObjects: 9.912910 ms)
+
+UnloadTime: 0.789749 ms
+System memory in use before: 6.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 6.5 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 184.
+Total: 2.284030 ms (FindLiveObjects: 0.035344 ms CreateObjectMapping: 0.026704 ms MarkObjects: 0.269402 ms  DeleteObjects: 0.040056 ms)
+
